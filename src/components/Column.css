@@ -1,0 +1,27 @@
+/* .column {
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  .column h2 {
+    font-size: 1.5rem;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+  }
+  
+  .task-list {
+    margin-top: 10px;
+  }
+   */
+   .column {
+  flex: 1;
+  margin: 0 10px;
+  background-color: #f4f5f7;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.column h2 {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
